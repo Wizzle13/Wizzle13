@@ -18,6 +18,7 @@ I am a Full Stack Developer currently taking part in The University of Minnesota
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=Javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?plastic&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?plastic&logo=jquery&logoColor=white)
+![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000000?plastic&logo=handlebars.js&logoColor=white)
 
 ##### Backend:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
