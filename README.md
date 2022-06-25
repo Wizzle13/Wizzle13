@@ -25,13 +25,15 @@ I am a Full Stack Developer currently taking part in The University of Minnesota
 ![jest](https://img.shields.io/badge/Jest-323330?style=plastic&logo=Jest&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=plastic)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=plastic&logo=insomnia&logoColor=white)
+
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
 
 ##### Tools:
 ![Github](https://img.shields.io/badge/GitHub-100000?plastic&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?plastic&logo=visualstudiocode&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=plastic&logo=insomnia&logoColor=white)
 ***
 #### 3D Printing:
 
