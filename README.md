@@ -19,10 +19,14 @@ I am a Full Stack Developer currently taking part in The University of Minnesota
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?plastic&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?plastic&logo=jquery&logoColor=white)
 ![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000000?plastic&logo=handlebars.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 
 ##### Backend:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=plastic)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_Graph_QL-311C87?style=plastic&logo=apollographql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/Graph_QL-E10098?style=plastic&logo=graphql&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=reactrouter&logoColor=61DAFB)
 
 
 ##### Database:
