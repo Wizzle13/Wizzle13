@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
 </div>
 
 ## Hello my name is Chris
@@ -34,6 +35,8 @@ I am a Full Stack Developer currently taking part in The University of Minnesota
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
 
 ##### Tools:
+![npm](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=plastic&logo=pnpm&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-323330?style=plastic&logo=Jest&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?plastic&logo=github&logoColor=white)
@@ -41,6 +44,8 @@ I am a Full Stack Developer currently taking part in The University of Minnesota
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=plastic&logo=insomnia&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=plastic&logo=lighthouse&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=plastic&logo=Webpack&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=plastic&logo=Stripe&logoColor=white)
+
 ***
 #### 3D Printing:
 
