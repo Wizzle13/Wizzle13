@@ -7,7 +7,7 @@
 
 :technologist:  About Me:
 
-I am a Full Stack Developer currently taking part in The University of Minnesota's Coding Bootcamp. 
+I am a Full Stack Developer who recently completed The University of Minnesota's Coding Bootcamp. Now that I have completed the Bootcamp, I am looking for emplyment and continuing to learn new thing and work on new projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-burton-aba9651b9)
 
@@ -44,7 +44,7 @@ I am a Full Stack Developer currently taking part in The University of Minnesota
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=plastic&logo=insomnia&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=plastic&logo=lighthouse&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=plastic&logo=Webpack&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=plastic&logo=Stripe&logoColor=white)
+<!-- ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=plastic&logo=Stripe&logoColor=white) -->
 
 ***
 #### 3D Printing:
