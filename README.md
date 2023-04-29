@@ -21,6 +21,8 @@ I am a Full Stack Developer who recently completed The University of Minnesota's
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?plastic&logo=jquery&logoColor=white)
 ![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000000?plastic&logo=handlebars.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=plastic&logo=gulp&logoColor=white)
 
 ##### Backend:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
