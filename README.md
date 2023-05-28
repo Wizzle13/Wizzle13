@@ -57,7 +57,7 @@ I am a Full Stack Developer who recently completed The University of Minnesota's
 ***
 #### Other Tools:
 ![Google%20Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?plastic&logo=googleanalytics&logoColor=white)
-
+![QMK](https://img.shields.io/badge/QMK-333333?plastic&logo=qmk&logoColor=white)
 <details>
 <summary>
 Additional Stats
